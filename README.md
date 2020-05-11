@@ -1,0 +1,2 @@
+# How-to-use-LM-35-temperature-sensor-with-Arduino
+LM35 is a temperature measuring device having an analog output voltage proportional to the temperature. It provides output voltage in Centigrade (Celsius). ... The sensitivity of LM35 is 10 mV/degree Celsius. As temperature increases, output voltage also increases. Connect the sensor pin to the analog pin of Arduino uno, VCC to 5v and GND to GND. For more Information visit Link:
